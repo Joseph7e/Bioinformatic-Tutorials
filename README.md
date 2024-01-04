@@ -1,2 +1,32 @@
-# Bioinformatic-Tutorials
+# Introduction
 This is a table of contents to the Hubbard Center for Genome Studies bioinformatic tutorials and resources.
+
+## Usage of the RON server for bioinformatic training.
+The use of the server for this training is available upon request to eligible participants. The server is supported by New Hampshire- INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. If the server or these tutorials are utilized for your work, please awknowledge NH-INBRE.
+
+
+# Bioinformatic Tutorials
+Introduction to BASH and the Command-line environment
+
+## 
+
+
+
+
+# Additional Resources
+
+## Hubbard Center for Genome Studies YouTube tutorials - https://www.youtube.com/@hubbardcenterforgenomestud5807
+
+## National Institute of General Medical Sciences Cloud Learning Modules - https://github.com/NIGMS/NIGMS-Sandbox/tree/main
+Fundamentals of Bioinformatics - Dartmouth College
+DNA Methylation Sequencing Analysis with WGBS - University of Hawaii at Manoa
+Transcriptome Assembly Refinement and Applications - MDI Biological Laboratory
+RNAseq Differential Expression Analysis - University of Maine
+Proteome Quantification - University of Arkansas for Medical Sciences
+ATAC-Seq and Single Cell ATAC-Seq Analysis - University of Nebraska Medical Center
+Consensus Pathway Analysis in the Cloud - University of Nevada Reno
+Integrating Multi-Omics Datasets - University of North Dakota
+Metagenomics Analysis of Biofilm-Microbiome - University of South Dakota
+Introduction to Data Science for Biology - San Francisco State University
+Analysis of Biomedical Data for Biomarker Discovery - University of Rhode Island
+Biomedical Imaging Analysis using AI/ML approaches - University of Arkansas
