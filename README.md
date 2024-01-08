@@ -50,4 +50,4 @@ https://github.com/NIGMS/NIGMS-Sandbox/tree/main
 * Biomedical Imaging Analysis using AI/ML approaches - University of Arkansas
 
 ## Other online tutorials/workflows
-
+Single-cell RNAseq tutorial - https://github.com/hbctraining/scRNA-seq_online
