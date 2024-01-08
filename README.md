@@ -11,13 +11,20 @@ The use of the server for this training is available upon request to eligible pa
 
 
 # Bioinformatic Tutorials
-* Introduction to BASH and the Command-line environment - https://github.com/Joseph7e/HCGS-BASH-tutorial  
-* Whole genome sequencing, assembly, annotation, and assessment - https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial  
-* Comparative genomics and retrieving NCBI genomes - https://github.com/Joseph7e/HCGS-Comparative-Genomics  
-* Metabarcoding anlsysis with QIIME2 - https://github.com/Joseph7e/HCGS_Metabarcoding_Tutorials  
-* Eukaryotic genome annotatio with MAKER - https://github.com/Joseph7e/MAKER-genome-annotations-tutorial  
-* Nanopore sequencing data analysis - https://github.com/Joseph7e/Nanopore-Workflow  
-* RNA-Seq differential expression analysis - https://github.com/LawrenceGordon/Differential-Expression-Analysis  
+* Introduction to BASH and the Command-line environment.
+  * https://github.com/Joseph7e/HCGS-BASH-tutorial  
+* Whole genome sequencing, assembly, annotation, and assessment.
+  * https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial  
+* Comparative genomics and retrieving NCBI genomes.
+  * https://github.com/Joseph7e/HCGS-Comparative-Genomics  
+* Metabarcoding anlsysis with QIIME2.
+  * https://github.com/Joseph7e/HCGS_Metabarcoding_Tutorials  
+* Eukaryotic genome annotatio with MAKER.
+  * https://github.com/Joseph7e/MAKER-genome-annotations-tutorial  
+* Nanopore sequencing data analysis.
+  * https://github.com/Joseph7e/Nanopore-Workflow  
+* RNA-Seq differential expression analysis.
+  * https://github.com/LawrenceGordon/Differential-Expression-Analysis  
 
 ## 
 
@@ -27,15 +34,18 @@ The use of the server for this training is available upon request to eligible pa
 ## Hubbard Center for Genome Studies YouTube tutorials - https://www.youtube.com/@hubbardcenterforgenomestud5807
 
 ## National Institute of General Medical Sciences Cloud Learning Modules - https://github.com/NIGMS/NIGMS-Sandbox/tree/main
-Fundamentals of Bioinformatics - Dartmouth College
-DNA Methylation Sequencing Analysis with WGBS - University of Hawaii at Manoa
-Transcriptome Assembly Refinement and Applications - MDI Biological Laboratory
-RNAseq Differential Expression Analysis - University of Maine
-Proteome Quantification - University of Arkansas for Medical Sciences
-ATAC-Seq and Single Cell ATAC-Seq Analysis - University of Nebraska Medical Center
-Consensus Pathway Analysis in the Cloud - University of Nevada Reno
-Integrating Multi-Omics Datasets - University of North Dakota
-Metagenomics Analysis of Biofilm-Microbiome - University of South Dakota
-Introduction to Data Science for Biology - San Francisco State University
-Analysis of Biomedical Data for Biomarker Discovery - University of Rhode Island
-Biomedical Imaging Analysis using AI/ML approaches - University of Arkansas
+* Fundamentals of Bioinformatics - Dartmouth College  
+* DNA Methylation Sequencing Analysis with WGBS - University of Hawaii at Manoa  
+* Transcriptome Assembly Refinement and Applications - MDI Biological Laboratory  
+* RNAseq Differential Expression Analysis - University of Maine  
+* Proteome Quantification - University of Arkansas for Medical Sciences  
+* ATAC-Seq and Single Cell ATAC-Seq Analysis - University of Nebraska Medical Center  
+* Consensus Pathway Analysis in the Cloud - University of Nevada Reno  
+* Integrating Multi-Omics Datasets - University of North Dakota  
+* Metagenomics Analysis of Biofilm-Microbiome - University of South Dakota  
+* Introduction to Data Science for Biology - San Francisco State University  
+* Analysis of Biomedical Data for Biomarker Discovery - University of Rhode Island  
+* Biomedical Imaging Analysis using AI/ML approaches - University of Arkansas
+
+## Other online tutorials/workflows
+
