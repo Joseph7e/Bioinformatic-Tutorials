@@ -31,9 +31,11 @@ The use of the server for this training is available upon request to eligible pa
 
 # Additional Resources
 
-## Hubbard Center for Genome Studies YouTube tutorials - https://www.youtube.com/@hubbardcenterforgenomestud5807
+## Hubbard Center for Genome Studies YouTube tutorials  
+  https://www.youtube.com/@hubbardcenterforgenomestud5807
 
-## National Institute of General Medical Sciences Cloud Learning Modules - https://github.com/NIGMS/NIGMS-Sandbox/tree/main
+## National Institute of General Medical Sciences Cloud Learning Modules  
+https://github.com/NIGMS/NIGMS-Sandbox/tree/main  
 * Fundamentals of Bioinformatics - Dartmouth College  
 * DNA Methylation Sequencing Analysis with WGBS - University of Hawaii at Manoa  
 * Transcriptome Assembly Refinement and Applications - MDI Biological Laboratory  
