@@ -1,8 +1,13 @@
 # Introduction
-This is a table of contents to the Hubbard Center for Genome Studies bioinformatic tutorials and resources.
+This is a table of contents to the Hubbard Center for Genome Studies bioinformatic tutorials and resources. The development of these tutorials are supported by New Hampshire-INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. The work is also supported by 
 
 ## Usage of the RON server for bioinformatic training.
-The use of the server for this training is available upon request to eligible participants. The server is supported by New Hampshire- INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. If the server or these tutorials are utilized for your work, please awknowledge NH-INBRE.
+The use of the server for this training is available upon request to eligible participants. If the server or these tutorials are utilized for your work, please awknowledge NH-INBRE. To request access to the RON server, please contact me. joseph.sevigny@unh.edu
+
+
+
+## Recommended training workflow
+
 
 
 # Bioinformatic Tutorials
