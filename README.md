@@ -11,11 +11,15 @@ The use of the server for this training is available upon request to eligible pa
 
 
 # Bioinformatic Tutorials
-Introduction to BASH and the Command-line environment
+* Introduction to BASH and the Command-line environment - https://github.com/Joseph7e/HCGS-BASH-tutorial  
+* Whole genome sequencing, assembly, annotation, and assessment - https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial  
+* Comparative genomics and retrieving NCBI genomes - https://github.com/Joseph7e/HCGS-Comparative-Genomics  
+* Metabarcoding anlsysis with QIIME2 - https://github.com/Joseph7e/HCGS_Metabarcoding_Tutorials  
+* Eukaryotic genome annotatio with MAKER - https://github.com/Joseph7e/MAKER-genome-annotations-tutorial  
+* Nanopore sequencing data analysis - https://github.com/Joseph7e/Nanopore-Workflow  
+* RNA-Seq differential expression analysis - https://github.com/LawrenceGordon/Differential-Expression-Analysis  
 
 ## 
-
-
 
 
 # Additional Resources
