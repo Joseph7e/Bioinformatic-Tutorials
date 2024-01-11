@@ -51,3 +51,7 @@ https://github.com/NIGMS/NIGMS-Sandbox/tree/main
 
 ## Other online tutorials/workflows
 Single-cell RNAseq tutorial - https://github.com/hbctraining/scRNA-seq_online
+
+### Build a genome network
+https://qubeshub.org/community/groups/bag/workshop/2023_sixth_national_workshop/2023_workshop_materials  
+
