@@ -24,7 +24,9 @@ The use of the server for this training is available upon request to eligible pa
 * Nanopore sequencing data analysis.
   * https://github.com/Joseph7e/Nanopore-Workflow  
 * RNA-Seq differential expression analysis.
-  * https://github.com/LawrenceGordon/Differential-Expression-Analysis  
+  * https://github.com/LawrenceGordon/Differential-Expression-Analysis
+* Genetic relatedness analysis.
+  * https://github.com/Joseph7e/genetic-relatedness
 
 ## 
 
