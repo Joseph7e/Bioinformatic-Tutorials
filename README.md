@@ -19,7 +19,7 @@ The use of the server for this training is available upon request to eligible pa
   * https://github.com/Joseph7e/HCGS-Comparative-Genomics  
 * Metabarcoding anlsysis with QIIME2.
   * https://github.com/Joseph7e/HCGS_Metabarcoding_Tutorials  
-* Eukaryotic genome annotatio with MAKER.
+* Eukaryotic genome annotation with MAKER.
   * https://github.com/Joseph7e/MAKER-genome-annotations-tutorial  
 * Nanopore sequencing data analysis.
   * https://github.com/Joseph7e/Nanopore-Workflow  
